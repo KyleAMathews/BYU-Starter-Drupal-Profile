@@ -45,3 +45,4 @@ function byu_starter_profile_tasks() {
   
   // Enable default admin theme
   install_admin_theme('rubik');
+}

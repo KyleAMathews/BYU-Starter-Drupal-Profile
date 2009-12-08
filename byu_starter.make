@@ -36,8 +36,3 @@ projects[rubik][location] = "http://code.developmentseed.org/fserver"
 
 ; Random default theme until BYU has a feature server to host our theme
 projects[] = "ninesixtyrobots"
-
-; Profile
-projects[feature_server][type] = "profile"
-projects[feature_server][download][type] = "git"
-projects[feature_server][download][url] = "git://git.mig5.net/drupal/profiles/feature_server"
